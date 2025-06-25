@@ -1,16 +1,18 @@
-# weather_final_project
+# Weather App - Flutter
 
-A new Flutter project.
+This is final project of "Mobile Application Development" class by Rangsit University. It is a simple, beautiful weather application built with Flutter that displays current weather information for selected cities using the OpenWeatherMap API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Splash screen with immersive UI
+- Select cities (Phuket, Bangkok, Pathumthani, London, Taipei, Beijing)
+- Real-time temperature, high/low, pressure, wind speed, humidity
+- Dynamic weather icons based on conditions
+- Custom UI styling with gradients and responsive layout
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![Screenshot](screenshots/start.png)
+![Screenshot](screenshots/dropdown_menu.png)
+![Screenshot](screenshots/location_1.png)
+![Screenshot](screenshots/location_2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
